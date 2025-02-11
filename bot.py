@@ -4,7 +4,7 @@ from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.lsa import LsaSummarizer
 
-TOKEN = "8142260456:AAEwGgXUE9eKR9tOUZvznvfgWJyCQxXn6r0"  # ضع التوكن الجديد هنا
+TOKEN = "8142260456:AAHHAFlTlnc-7KICVh9mOHo_bMLph9DuYyo"  # ضع التوكن الجديد هنا
 
 # دالة تلخيص المقالات
 def summarize_text(text, sentences_count=3):
