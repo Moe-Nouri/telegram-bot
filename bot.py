@@ -6,7 +6,7 @@ from sumy.nlp.tokenizers import Tokenizer
 from sumy.summarizers.lsa import LsaSummarizer
 
 # 🔹 ضع التوكن الصحيح هنا
-TOKEN = "8142260456:AAHHAFlTlnc-7KICVh9mOHo_bMLph9DuYyo"
+TOKEN = "8142260456:AAEIpfAujCW6-TJHwc3OCvJO-OY9P-SxAqU"
 
 # ✅ دالة تلخيص المقالات
 def summarize_text(text, sentences_count=3):
