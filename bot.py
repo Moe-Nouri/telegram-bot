@@ -1,4 +1,5 @@
 import asyncio
+import telegram
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters
 from sumy.parsers.plaintext import PlaintextParser
